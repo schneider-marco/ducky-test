@@ -18,4 +18,4 @@ public class Wallpaper
 "@
 
 Add-Type -TypeDefinition $setwallpaper
-[Wallpaper]::SetWallpaper($path)
+[Wallpaper]::SetWallpaper("w.jpg")
