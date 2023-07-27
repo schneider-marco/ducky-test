@@ -1,4 +1,4 @@
-$path = "w.jpg"
+$path = ".\w.jpg"
 
 $setwallpaper = @"
 using System.Runtime.InteropServices;
